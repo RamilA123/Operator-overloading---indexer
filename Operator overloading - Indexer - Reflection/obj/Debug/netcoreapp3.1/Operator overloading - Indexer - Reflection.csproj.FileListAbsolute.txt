@@ -1,0 +1,14 @@
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Practice5\Operator overloading - Indexer - Reflection\bin\Debug\netcoreapp3.1\Operator overloading - Indexer - Reflection.exe
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Practice5\Operator overloading - Indexer - Reflection\bin\Debug\netcoreapp3.1\Operator overloading - Indexer - Reflection.deps.json
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Practice5\Operator overloading - Indexer - Reflection\bin\Debug\netcoreapp3.1\Operator overloading - Indexer - Reflection.runtimeconfig.json
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Practice5\Operator overloading - Indexer - Reflection\bin\Debug\netcoreapp3.1\Operator overloading - Indexer - Reflection.runtimeconfig.dev.json
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Practice5\Operator overloading - Indexer - Reflection\bin\Debug\netcoreapp3.1\Operator overloading - Indexer - Reflection.dll
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Practice5\Operator overloading - Indexer - Reflection\bin\Debug\netcoreapp3.1\Operator overloading - Indexer - Reflection.pdb
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Practice5\Operator overloading - Indexer - Reflection\obj\Debug\netcoreapp3.1\Operator overloading - Indexer - Reflection.csproj.AssemblyReference.cache
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Practice5\Operator overloading - Indexer - Reflection\obj\Debug\netcoreapp3.1\Operator overloading - Indexer - Reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Practice5\Operator overloading - Indexer - Reflection\obj\Debug\netcoreapp3.1\Operator overloading - Indexer - Reflection.AssemblyInfoInputs.cache
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Practice5\Operator overloading - Indexer - Reflection\obj\Debug\netcoreapp3.1\Operator overloading - Indexer - Reflection.AssemblyInfo.cs
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Practice5\Operator overloading - Indexer - Reflection\obj\Debug\netcoreapp3.1\Operator overloading - Indexer - Reflection.csproj.CoreCompileInputs.cache
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Practice5\Operator overloading - Indexer - Reflection\obj\Debug\netcoreapp3.1\Operator overloading - Indexer - Reflection.dll
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Practice5\Operator overloading - Indexer - Reflection\obj\Debug\netcoreapp3.1\Operator overloading - Indexer - Reflection.pdb
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Practice5\Operator overloading - Indexer - Reflection\obj\Debug\netcoreapp3.1\Operator overloading - Indexer - Reflection.genruntimeconfig.cache
